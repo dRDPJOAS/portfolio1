@@ -37,6 +37,14 @@ p{
 font-size: 100pw;
 
 }
+.link-nav{
+background-color: white;
+text-decoration: none;
+border-radius: 2px;
+margin:10%;
+font-size: 20PX;
+padding: 1PX;
+}
 
 
 
