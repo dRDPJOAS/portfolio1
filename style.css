@@ -46,6 +46,9 @@ font-size: 20PX;
 padding: 1PX;
 }
 
+.link-nav:hover{
+background-color: #ff8201;
+color: white;
 
 
 
